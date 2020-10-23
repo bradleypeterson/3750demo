@@ -2,4 +2,5 @@ This is a test file
 Here is line 1
 Here is line 2
 Here is another line
+I think one more line is a good idea
 Here is the final line
