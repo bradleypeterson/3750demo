@@ -1,10 +1,11 @@
 This is a test file
 Another line near the top
 Linux adding a line at the top
+A bunch of broken code I'm not ready to commit
 Here is line 1
 Here is line 2
 Here is another line
-I think one more line is a good idea
+I don't think one more line is a good idea
 Another modification
 Adding a new line near the bottom
 Yet another line near the bottom
