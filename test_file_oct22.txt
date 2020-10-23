@@ -1,4 +1,5 @@
 This is a test file
+Another line near the top
 Linux adding a line at the top
 Here is line 1
 Here is line 2
