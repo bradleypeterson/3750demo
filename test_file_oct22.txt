@@ -3,4 +3,5 @@ Here is line 1
 Here is line 2
 Here is another line
 I think one more line is a good idea
+Another modification
 Here is the final line
